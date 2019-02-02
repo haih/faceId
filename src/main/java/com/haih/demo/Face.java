@@ -1,11 +1,8 @@
 package com.haih.demo;
 
+import com.alibaba.fastjson.JSON;
 import com.haih.demo.vo.DetectBody;
-import com.haih.demo.vo.OauthRep;
-
-import com.alibaba.fastjson.JSON;    
-import com.alibaba.fastjson.JSONObject;  
-import com.alibaba.fastjson.TypeReference;    
+import com.haih.demo.vo.OauthRep;    
 
 public class Face
 {
